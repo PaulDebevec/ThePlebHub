@@ -215,7 +215,14 @@
         "lines": [
           1,
           1,
+          1,
           null,
+          1,
+          null
+        ]
+      },
+      "/Users/pdebevec/dev/ThePlebHub/app/helpers/about_helper.rb": {
+        "lines": [
           1,
           null
         ]
@@ -232,10 +239,30 @@
           null
         ]
       },
-      "/Users/pdebevec/dev/ThePlebHub/app/controllers/landing_controller.rb": {
+      "/Users/pdebevec/dev/ThePlebHub/spec/features/landing_page/landing_spec.rb": {
         "lines": [
           1,
           null,
+          1,
+          1,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/pdebevec/dev/ThePlebHub/app/controllers/landing_controller.rb": {
+        "lines": [
+          1,
           1,
           null,
           null
@@ -244,6 +271,29 @@
       "/Users/pdebevec/dev/ThePlebHub/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/pdebevec/dev/ThePlebHub/spec/helpers/about_helper_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -266,11 +316,31 @@
           null
         ]
       },
+      "/Users/pdebevec/dev/ThePlebHub/spec/requests/about_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/pdebevec/dev/ThePlebHub/spec/requests/landing_spec.rb": {
         "lines": [
-          1,
           null,
-          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/pdebevec/dev/ThePlebHub/app/controllers/about_controller.rb": {
+        "lines": [
           1,
           1,
           null,
@@ -278,6 +348,6 @@
         ]
       }
     },
-    "timestamp": 1709971639
+    "timestamp": 1709998807
   }
 }

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get '/', to: 'landing#index'
+  root 'landing#index'
+  get '/about', to: 'about#index'
 
   get "up" => "rails/health#show", as: :rails_health_check
 end
